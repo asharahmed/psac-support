@@ -26,17 +26,17 @@ const DEMANDS = [
   },
   {
     id: 3,
-    title: "Safer working conditions",
-    description:
-      "Workers are demanding safer working conditions, including modern tooling, understanding of critical inclusivity issues, and more.",
-    url: "https://psacunion.ca/health-and-safety-0",
-  },
-  {
-    id: 4,
     title: "Re-appointment of wrongfully dismissed officers",
     description:
     "Canadians rightfully expect that the government will not terminate workers without just cause. The government should reappoint officials who were wrongfully dismissed.",
     url:"https://www.blackclassaction.ca",
+  },
+  {
+    id: 4,
+    title: "Safer working conditions",
+    description:
+      "Workers are demanding safer working conditions, including modern tooling, understanding of critical inclusivity issues, and more.",
+    url: "https://psacunion.ca/health-and-safety-0",
   },
   {
     id: 5,
