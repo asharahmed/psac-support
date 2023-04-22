@@ -200,7 +200,7 @@ export default function Home() {
         <div className="wrapper">
           <p className="footer-wrap">
             <a href="https://www.psacunion.ca/" target="_blank" rel="noopener noreferrer">
-              PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. 
+            🚩 PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. 
               <br/>
               This web application is not affiliated with PSAC and is a project made in solidarity by a proud union member and friend of PSAC.
             </a>
