@@ -467,8 +467,8 @@ export default function Home() {
         .days-since {
           font-size: 0.75rem;
           color: #666;
-          padding: 0.5rem 0;
-          
+          padding: 2rem 0;
+
 
         }
         
