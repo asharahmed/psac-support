@@ -33,54 +33,61 @@ const DEMANDS = [
   },
   {
     id: 4,
+    title: "Re-appointment of wrongfully dismissed officers",
+    description:
+    "Canadians rightfully expect that the government will not terminate workers without just cause. Canadians hope the government reappoints officials who were wrongfully dismissed.",
+    url:"https://www.blackclassaction.ca",
+  },
+  {
+    id: 5,
     title: "Remote work",
     description:
       "Workers are seeking remote work options, including the ability to work from home.",
     url: "https://globalnews.ca/news/9642634/psac-stike-remote-work/",
   },
   {
-    id: 5,
+    id: 6,
     title: "A real commitment to fight systemic racism in the workplace",
     description:
       "Workers are demanding a commitment to fight systemic racism in the workplace.",
     url: "https://ottawacitizen.com/opinion/adam-racial-minorities-have-more-concerns-than-cash-as-psac-strikes",
   },
   {
-    id: 6,
+    id: 7,
     title: "More jobs",
     description:
       "Workers are demanding more jobs for Canadians, including the creation of more full-time positions to support the growth of our economy.",
     url: "https://www.cbc.ca/news/canada/ottawa/psac-strike-ottawa-1.5994040",
   },
   {
-    id: 7,
+    id: 8,
     title: "Better technology",
     description:
       "Workers, particularly subject matter experts, are calling for better technology, including the ability to work with modern tools to tackle Canada's modern threats.",
       url: "https://www.cbc.ca/news/canada/union-raises-chart-1.6813276",
   },
   {
-    id: 8,
+    id: 9,
     title: "Respect for democracy at work",
     description: "Canada is one of the most democratic countries in the world. Canada's workforce is demanding respect for democracy in the public workplace.",
     url: "https://freedomhouse.org/country/canada",
   },
   {
-    id: 9,
+    id: 10,
     title: "Find a picket line near you",
     description:
       "Commit to joining a picket line near you!",
-    url: "https://workerscantwait.ca/picket-lines/",
+    url: "https://workerscantwait.ca",
   },
   {
-    id: 10,
+    id: 11,
     title: "Support the strike",
     description:
       "Support the strike by making your voice heard or read the letter!",
     url: "https://web.cs.dal.ca/~ashar/psac.pdf",
   },
   {
-    id: 11,
+    id: 12,
     title: "Watch the PSAC PSA",
     description:
       "Watch the PSAC PSA on how workers cannot wait. None of us can.",
@@ -88,7 +95,7 @@ const DEMANDS = [
 
   },
   {
-    id: 12,
+    id: 13,
     title: "A project by a proud union member",
     description:
     "This web application is not affiliated with PSAC, but is a project by a proud union member (Ashar Ahmed).",
@@ -193,23 +200,25 @@ export default function Home() {
 <div className="days-since">
   <br/>
   <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
+  
 </div>
-
 
         <footer>
         <div className="wrapper">
           <p className="footer-wrap">
             <a href="https://www.psacunion.ca/" target="_blank" rel="noopener noreferrer">
-            🚩 PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. 
-              <br/>
-              This web application is not affiliated with PSAC and is a project made in solidarity by a proud union member and friend of PSAC.
-            </a>
+            🚩 PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. <br/> This web application is not affiliated with PSAC and is a project made in solidarity by a proud union member and friend of PSAC.</a>
             
-          </p>
-          <p>
+            <br/>
+           
             
+             
+              
+          
           </p>
+          
         </div>
+        
       </footer>
       </main>
       
@@ -241,6 +250,13 @@ export default function Home() {
           display: flex;
           justify-content: center;
           align-items: center;
+        }
+
+        footer-wrap {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+
         }
 
         footer img {
