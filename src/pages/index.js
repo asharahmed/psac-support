@@ -83,7 +83,7 @@ const DEMANDS = [
     id: 11,
     title: "Watch the PSAC PSA",
     description:
-      "Watch the PSAC Ad on how workers cannot wait. None of us can.",
+      "Watch the PSAC PSA on how workers cannot wait. None of us can.",
     url: "https://www.youtube.com/watch?v=TGjfPySSjdE",
 
   },
