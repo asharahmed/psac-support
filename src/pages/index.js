@@ -159,7 +159,7 @@ export default function Home() {
             <a href="https://www.psacunion.ca/" target="_blank" rel="noopener noreferrer">
               PSAC is the largest union in Canada&pos;s public service, representing 200,000 members across the country. 
               <br/>
-              This web application is not affiliated with PSAC, but is a project by a proud union member.
+              This web application is not affiliated with PSAC, but is a project by a proud union member and friend of PSAC.
             </a>
             
           </p>
