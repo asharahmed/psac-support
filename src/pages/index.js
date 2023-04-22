@@ -7,6 +7,7 @@ const strikeStartDate = new Date("2023-04-19");
    const timeDiff = today.getTime() - strikeStartDate.getTime();
    const daysSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600 * 24));
     const hoursSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600));
+    const remainingMinutesSinceStrikeBegan = Math.floor(timeDiff / (1000 * 60));
     
 const DEMANDS = [
   {
@@ -171,7 +172,7 @@ export default function Home() {
 
 <div className="days-since">
   <br/>
-  <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
+  <h2>It has been {hoursSinceStrikeBegan} hours, {remainingMinutesSinceStrikeBegan} minutes or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
 </div>
 
 
