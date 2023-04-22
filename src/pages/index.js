@@ -185,7 +185,7 @@ export default function Home() {
         </div>
 
         <div className="video-container">
-        <iframe   className="video" width="800vw" height="600" src="https://www.youtube.com/embed/TGjfPySSjdE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe   className="video" width="790vw" height="450vh" src="https://www.youtube.com/embed/TGjfPySSjdE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 </div>
 
 
