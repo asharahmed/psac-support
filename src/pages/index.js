@@ -28,8 +28,8 @@ const DEMANDS = [
     id: 3,
     title: "Re-appointment of wrongfully dismissed officers",
     description:
-    "Canadians rightfully expect that their government will not terminate workers without just cause. The government must reappoint those wrongfully dismissed.",
-    url:"https://www.ourcommons.ca/Content/Committee/432/SECU/Reports/RP11434998/securp06/securp06-e.pdf",
+    "Canadians rightfully expect that their government will not terminate workers without just cause. The government should reappoint those wrongfully dismissed.",
+    url:"https://ottawacitizen.com/opinion/adam-racial-minorities-have-more-concerns-than-cash-as-psac-strikes",
   },
   {
     id: 4,
