@@ -40,18 +40,19 @@ const DEMANDS = [
   },
   {
     id: 5,
-    title: "Remote work",
-    description:
-      "Workers are seeking remote work options, including the ability to work from home.",
-    url: "https://globalnews.ca/news/9642634/psac-stike-remote-work/",
-  },
-  {
-    id: 6,
     title: "A real commitment to fight systemic racism in the workplace",
     description:
       "Workers are demanding a commitment to fight systemic racism in the workplace.",
     url: "https://ottawacitizen.com/opinion/adam-racial-minorities-have-more-concerns-than-cash-as-psac-strikes",
   },
+  {
+    id: 6,
+    title: "Remote work",
+    description:
+      "Workers are seeking remote work options, including the ability to work from home.",
+    url: "https://globalnews.ca/news/9642634/psac-stike-remote-work/",
+  },
+  
   {
     id: 7,
     title: "More jobs",
