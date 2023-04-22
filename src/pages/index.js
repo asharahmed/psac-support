@@ -93,7 +93,10 @@ export default function Home() {
           name="description"
           content="Learn about the demands of striking Canadian workers."
         />
-                <meta property="og:image" content="/favicon.png" />
+        <meta property="og:title" content="PSAC Workers Strike" />
+        <meta property="og:description" content="Learn about the demands of striking Canadian workers." />
+        <meta property="og:url" content="https://supportpsac.com/" />
+        <meta property="og:image" content="/favicon.png" />
 
          <style>{`
           
