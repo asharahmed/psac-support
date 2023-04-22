@@ -65,7 +65,7 @@ const DEMANDS = [
     title: "Better technology",
     description:
       "Workers, particularly subject matter experts, are calling for better technology, including the ability to work with modern tools to tackle Canada's modern threats.",
-      url: "https://www.cbc.ca/news/canada/union-raises-chart-1.6813276",
+      url: "https://www.cbc.ca/news/politics/federal-it-systems-critical-failure-1.5448871",
   },
   {
     id: 9,
