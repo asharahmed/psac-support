@@ -97,6 +97,13 @@ const DEMANDS = [
   },
   {
     id: 13,
+    title: "PSAC Strike FAQ (CRA)",
+    description:
+    "Learn more about the strike and the demands of CRA PSAC workers.",
+    url: "https://workerscantwait.ca/faq-bargaining-with-canada-revenue-agency/",
+  },
+  {
+    id: 14,
     title: "A project by a proud union member",
     description:
     "This web application is not affiliated with PSAC, but is a project by a proud union member (Ashar Ahmed).",
@@ -104,7 +111,14 @@ const DEMANDS = [
 
 
   },
-
+  {
+    id: 15,
+    title: "PSAC Strike FAQ (Treasury Board)",
+    description:
+    "Learn more about the strike and the demands of TB PSAC workers.",
+    url: "https://workerscantwait.ca/strike-faq/",
+  },
+  
 ];
 
 export default function Home() {
