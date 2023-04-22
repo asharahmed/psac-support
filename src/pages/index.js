@@ -62,7 +62,7 @@ const DEMANDS = [
   {
     id: 8,
     title: "Respect for democracy at work",
-    description: "Canada is one of the most democratic countries in the world. At this critical point, Canada's workforce is demanding respect for democracy in the workplace.",
+    description: "Canada is one of the most democratic countries in the world. Canada's workforce is demanding respect for democracy in the workplace.",
     url: "https://freedomhouse.org/country/canada",
   },
   {
