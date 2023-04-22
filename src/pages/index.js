@@ -47,20 +47,40 @@ const DEMANDS = [
   },
   {
     id: 6,
+    title: "More jobs",
+    description:
+      "Workers are demanding more jobs for Canadians, including the creation of more full-time positions to support the growth of our economy.",
+    url: "https://www.cbc.ca/news/canada/ottawa/psac-strike-ottawa-1.5994040",
+  },
+  {
+    id: 7,
+    title: "Better technology",
+    description:
+      "Workers, particularly subject matter experts, are calling for better technology, including the ability to work with modern tools to tackle Canada's 21st century threats.",
+      url: "https://www.cbc.ca/news/canada/union-raises-chart-1.6813276",
+  },
+  {
+    id: 8,
+    title: "Respect for democracy at work",
+    description: "Canada is one of the most democratic countries in the world. At this critical point, Canada's workforce is demanding respect for democracy in the workplace.",
+    url: "https://freedomhouse.org/country/canada",
+  },
+  {
+    id: 9,
     title: "Find a picket line near you",
     description:
       "Commit to joining a picket line near you!",
     url: "https://workerscantwait.ca/picket-lines/",
   },
   {
-    id: 7,
+    id: 10,
     title: "Support the strike",
     description:
       "Support the strike by making your voice heard or read the letter!",
     url: "https://web.cs.dal.ca/~ashar/psac.pdf",
   },
   {
-    id: 8,
+    id: 11,
     title: "Watch the PSAC Ad",
     description:
       "Watch the PSAC Ad on how workers cannot wait. None of us can.",
@@ -68,7 +88,7 @@ const DEMANDS = [
 
   },
   {
-    id: 8,
+    id: 12,
     title: "A project by a proud union member",
     description:
     "This web application is not affiliated with PSAC, but is a project by a proud union member (Ashar Ahmed).",
