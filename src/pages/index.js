@@ -171,7 +171,7 @@ export default function Home() {
 
 <div className="days-since">
   <br/>
-  <h2>IT HAS BEEN {hoursSinceStrikeBegan} HOURS OR {daysSinceStrikeBegan} DAYS SINCE THE STRIKE BEGAN.</h2>
+  <h2>IT HAS BEEN {hoursSinceStrikeBegan} HOURS OR {daysSinceStrikeBegan} DAYS SINCE THE STRIKE BEGAN.</h2><br/> 
 </div>
 
 
@@ -181,7 +181,7 @@ export default function Home() {
             <a href="https://www.psacunion.ca/" target="_blank" rel="noopener noreferrer">
               PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. 
               <br/>
-              This web application is not affiliated with PSAC, but is a project by a proud union member and friend of PSAC.
+              This web application is not affiliated with PSAC, but is a project made in solidarity by a proud union member and friend of PSAC.
             </a>
             
           </p>
