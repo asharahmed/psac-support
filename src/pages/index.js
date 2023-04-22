@@ -35,7 +35,7 @@ const DEMANDS = [
     id: 4,
     title: "Re-appointment of wrongfully dismissed officers",
     description:
-    "Canadians rightfully expect that the government will not terminate workers without just cause. Canadians hope the government reappoints officials who were wrongfully dismissed.",
+    "Canadians rightfully expect that the government will not terminate workers without just cause. The government should reappoint officials who were wrongfully dismissed.",
     url:"https://www.blackclassaction.ca",
   },
   {
