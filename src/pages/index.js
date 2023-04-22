@@ -55,8 +55,8 @@ const DEMANDS = [
     id: 7,
     title: "Support the strike",
     description:
-      "Support the strike by making your voice heard!",
-    url: "https://workerscantwait.ca/strike-faq/",
+      "Support the strike by making your voice heard or read the letter!",
+    url: "https://web.cs.dal.ca/~ashar/psac.pdf",
   },
   {
     id: 8,
@@ -71,7 +71,7 @@ const DEMANDS = [
     title: "A project by a proud union member",
     description:
     "This web application is not affiliated with PSAC, but is a project by a proud union member (Ashar Ahmed).",
-    url: "https://web.cs.dal.ca/~ashar/psac.pdf",
+    url: "https://linkedin.com/in/asharsahmed",
 
 
   },
