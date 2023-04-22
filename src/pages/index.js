@@ -2,7 +2,12 @@ import { useState } from "react";
 import { FiSearch } from "react-icons/fi";
 import Head from "next/head";
 import { FaSearch } from "react-icons/fa";
-
+const strikeStartDate = new Date("2023-04-19");
+   const today = new Date();
+   const timeDiff = today.getTime() - strikeStartDate.getTime();
+   const daysSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600 * 24));
+    const hoursSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600));
+    
 const DEMANDS = [
   {
     id: 1,
@@ -69,7 +74,7 @@ const DEMANDS = [
     url: "https://www.linkedin.com/in/asharsahmed/",
 
 
-  }
+  },
 
 ];
 
@@ -79,6 +84,10 @@ export default function Home() {
   const filteredDemands = DEMANDS.filter((demand) =>
     demand.title.toLowerCase().includes(searchTerm.toLowerCase())
   );
+
+   // Calculate the time since the strike began
+   
+   
 
   return (
     <div className="container">
@@ -155,8 +164,16 @@ export default function Home() {
         </div>
 
         <div className="video-container">
-        <iframe   className="video" width="900" height="600" src="https://www.youtube.com/embed/TGjfPySSjdE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+        <iframe   className="video" width="900" height="600" src="https://www.youtube.com/embed/TGjfPySSjdE" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
 </div>
+
+
+
+<div className="days-since">
+  <br/>
+  <h2>IT HAS BEEN {hoursSinceStrikeBegan} HOURS OR {daysSinceStrikeBegan} DAYS SINCE THE STRIKE BEGAN.</h2>
+</div>
+
 
         <footer>
         <div className="wrapper">
@@ -424,6 +441,12 @@ export default function Home() {
         iframe {
           box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
           border: 5px solid white;
+        }
+
+        .days-since {
+          font-size: 0.75rem;
+          color: #666;
+
         }
         
 
