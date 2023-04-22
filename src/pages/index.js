@@ -121,10 +121,10 @@ export default function Home() {
          
         <meta
           name="description"
-          content="Learn about the demands of striking Canadian workers."
+          content="Learn about the demands of striking Public Service Alliance of Canada workers."
         />
         <meta property="og:title" content="PSAC Workers Strike" />
-        <meta property="og:description" content="Learn about the demands of striking Canadian workers." />
+        <meta property="og:description" content="Learn about the demands of striking Public Service Alliance of Canada workers." />
         <meta property="og:url" content="https://supportpsac.com/" />
         <meta property="og:image" content="/favicon.png" />
 
