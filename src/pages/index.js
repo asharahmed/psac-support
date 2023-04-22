@@ -172,7 +172,7 @@ export default function Home() {
 
 <div className="days-since">
   <br/>
-  <h2>It has been {hoursSinceStrikeBegan} hours, {remainingMinutesAfterHours} minutes or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
+  <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
 </div>
 
 
