@@ -271,6 +271,7 @@ export default function Home() {
           display: flex;
           justify-content: space-between;
           align-items: center;
+          color: white;
         }
 
         .logo {
