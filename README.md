@@ -1,5 +1,7 @@
 # PSAC Workers Strike
 
+![/ss.jpg]()
+
 This is a React web application that displays the demands of striking Canadian workers. It allows users to search for demands and provides links to further resources.
 
 ## Table of Contents
