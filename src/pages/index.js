@@ -83,9 +83,9 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <div className="title">
+        
           <title>PSAC Workers Strike</title>
-          </div>
+          <meta name="viewport" content="initial-scale=1.0, width=device-width" />
           <link rel="shortcut icon" type="image/png" href="/favicon.png" />
          
          
