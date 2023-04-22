@@ -40,9 +40,9 @@ const DEMANDS = [
   },
   {
     id: 5,
-    title: "A real commitment to fighting systemic racism in the workplace",
+    title: "A real commitment to fight systemic racism in the workplace",
     description:
-      "Workers are demanding a commitment to fighting systemic racism in the workplace.",
+      "Workers are demanding a commitment to fight systemic racism in the workplace.",
     url: "https://ottawacitizen.com/opinion/adam-racial-minorities-have-more-concerns-than-cash-as-psac-strikes",
   },
   {
