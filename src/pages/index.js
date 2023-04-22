@@ -8,7 +8,7 @@ const DEMANDS = [
     id: 1,
     title: "Fair wages",
     description:
-      "According to PSAC, The 'Treasury Board’s insulting wage offer — averaging 2.06% per year from 2021–25 — is completely out of touch with the soaring cost of living across Canada and asks workers to take a big pay cut when they need a raise most.'",
+      "According to PSAC, The &apos;Treasury Board’s insulting wage offer — averaging 2.06% per year from 2021–25 — is completely out of touch with the soaring cost of living across Canada and asks workers to take a big pay cut when they need a raise most.&apos;",
     url: "https://workerscantwait.ca/strike-faq/",
   },
   {
