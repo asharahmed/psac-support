@@ -71,7 +71,7 @@ const DEMANDS = [
     title: "A project by a proud union member",
     description:
     "This web application is not affiliated with PSAC, but is a project by a proud union member (Ashar Ahmed).",
-    url: "https://www.linkedin.com/in/asharsahmed/",
+    url: "https://web.cs.dal.ca/~ashar/psac.pdf",
 
 
   },
