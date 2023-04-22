@@ -91,8 +91,10 @@ export default function Home() {
          
         <meta
           name="description"
-          content="Learn about the demands of striking Canadian workers"
+          content="Learn about the demands of striking Canadian workers."
         />
+                <meta property="og:image" content="/favicon.png" />
+
          <style>{`
           
 
