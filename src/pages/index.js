@@ -22,7 +22,7 @@ const DEMANDS = [
     id: 3,
     title: "Safer working conditions",
     description:
-      "Workers are demanding safer working conditions, including modern tooling, understanding of critical inclusivity issues, and more..",
+      "Workers are demanding safer working conditions, including modern tooling, understanding of critical inclusivity issues, and more.",
     url: "https://psacunion.ca/health-and-safety-0",
   },
   {
@@ -162,7 +162,7 @@ export default function Home() {
         <div className="wrapper">
           <p className="footer-wrap">
             <a href="https://www.psacunion.ca/" target="_blank" rel="noopener noreferrer">
-              PSAC is the largest union in Canada&apos; public service, representing 200,000 members across the country. 
+              PSAC is the largest union in Canada&apos;s public service, representing 200,000 members across the country. 
               <br/>
               This web application is not affiliated with PSAC, but is a project by a proud union member and friend of PSAC.
             </a>
