@@ -1,4 +1,4 @@
-# PSAC Workers Strike Demands Web App
+# 🚩 PSAC Workers Strike Demands
 
 ![](https://supportpsac.com/ss.jpg)
 
