@@ -19,9 +19,9 @@ const DEMANDS = [
   },
   {
     id: 2,
-    title: "Competitive benefits",
+    title: "Improved benefits",
     description:
-      "Workers want improved benefits, such as comprehensive health insurance and more paid time off.",
+      "Workers want competitive benefits, such as comprehensive health insurance and more paid time off.",
     url: "https://ottawacitizen.com/opinion/denley-psacs-strike-demands-arent-unreasonable-mr-trudeau",
   },
   {
