@@ -1,4 +1,4 @@
-# 🚩 PSAC Workers Strike Demands
+# 🚩 PSAC Workers Strike
 
 ![](https://supportpsac.com/ss.jpg)
 
