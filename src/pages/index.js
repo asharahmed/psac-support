@@ -176,7 +176,7 @@ export default function Home() {
                 <rect x="10" y="45" width="80" height="10" fill="#FFFFFF" />
                 <rect x="10" y="65" width="80" height="10" fill="#C8102E" />
               </svg>
-              <h1>PSAC Workers Strike</h1>
+              <h1>PSAC WORKERS STRIKE</h1>
             </div>
             <div className="search">
               <div className="search-container">
