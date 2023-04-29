@@ -77,7 +77,7 @@ const DEMANDS = [
     id: 10,
     title: "Find a picket line near you",
     description:
-      "Commit to joining a picket line near you!",
+      "Commit to joining a picket line near you.",
     url: "https://workerscantwait.ca",
   },
   {
