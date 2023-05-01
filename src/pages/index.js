@@ -7,8 +7,8 @@ const strikeStartDate = new Date("2023-04-19");
    const timeDiff = today.getTime() - strikeStartDate.getTime();
    const daysSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600 * 24));
     const hoursSinceStrikeBegan = Math.floor(timeDiff / (1000 * 3600));
-    const remainingMinutesAfterHours = Math.floor(timeDiff / (1000 * 60)) % 60;
-    
+    const daysSinceMay1 = Math.floor((today.getTime() - new Date("2023-05-01").getTime()) / (1000 * 3600 * 24));
+    const hoursSinceMay1 = Math.floor((today.getTime() - new Date("2023-05-01").getTime()) / (1000 * 3600));
 const DEMANDS = [
   {
     id: 1,
@@ -214,9 +214,10 @@ export default function Home() {
 
 <div className="days-since">
   <br/>
-  <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
-  <h3><a href="https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and">A deal with PSAC was reached! </a></h3>
-  
+  <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2>
+  <center>  <h3><a href=""> It has been {hoursSinceMay1} hours or {daysSinceMay1} days since the TBS strike ended.</a></h3></center> <br/>
+  <center>  <h3><a href="https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and">A deal with PSAC was reached for Treasury Board workers! </a></h3></center>  
+
 </div>
 
         <footer>
