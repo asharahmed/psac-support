@@ -215,6 +215,7 @@ export default function Home() {
 <div className="days-since">
   <br/>
   <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2><br/> 
+  <h3><a href="https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and">A deal with PSAC was reached! </a></h3>
   
 </div>
 
