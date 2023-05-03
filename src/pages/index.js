@@ -85,7 +85,7 @@ const DEMANDS = [
     title: "Support the strike",
     description:
       "Support the strike by making your voice heard or read the open letter.",
-    url: "/psac.pdf",
+    url: "https://supportpsac.com/psac.pdf",
   },
   {
     id: 12,
