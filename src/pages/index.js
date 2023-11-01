@@ -214,9 +214,8 @@ export default function Home() {
 
 <div className="days-since">
   <br/>
-  <h2>It has been {hoursSinceStrikeBegan} hours or {daysSinceStrikeBegan} days since the strike began.</h2>
-  <center>  <h3><a href=""> It has been {hoursSinceMay1} hours or {daysSinceMay1} days since the strike ended.</a></h3></center> <br/>
-  <center>  <h3><a href="https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and">A deal with PSAC was reached for CRA and Treasury Board workers! </a></h3></center>  
+  <center>  <h3><a href=""> It has been {daysSinceMay1} days since the strike ended.</a></h3></center> <br/>
+  <center>  <h3><a href="https://psacunion.ca/psac-has-reached-tentative-agreement-pa-sv-tc-and">A deal with PSAC was reached for CRA and Treasury Board workers. </a></h3></center>  
 
 </div>
 
