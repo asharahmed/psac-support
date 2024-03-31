@@ -31,4 +31,4 @@ This project is open to contributions. If you have any suggestions or bug report
 
 ## Credits
 
-This web application was created by Ashar Ahmed, a proud union member. It is not affiliated with PSAC.
+It is not affiliated with PSAC.
